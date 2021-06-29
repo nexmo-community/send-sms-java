@@ -1,6 +1,5 @@
 package getstarted;
 
-
 import com.vonage.client.VonageClient;
 import com.vonage.client.sms.MessageStatus;
 import com.vonage.client.sms.SmsSubmissionResponse;
