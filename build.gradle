@@ -18,7 +18,7 @@ repositories {
 
 // Install the Vonage Java SDK
 dependencies {
-    implementation 'com.vonage:client:6.4.0'
+    implementation 'com.vonage:client:6.4.2'
 }
 
 // We'll create this class to contain our code:
