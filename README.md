@@ -1,3 +1,12 @@
+# ⚠️ This repository is no longer maintained.
+
+<img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
+
+## Support Notice
+This is an archived repository. If you have any questions, feel free to reach out to us at devrel@vonage.com or through our Community Slack at https://developer.vonage.com/community/slack.
+
+<hr />
+
 This repository is part of the [How to Send SMS Messages With Java](https://learn.vonage.com/blog/2017/05/03/send-sms-messages-with-java-dr/) tutorial.
 
 ### Prerequisites
@@ -35,7 +44,7 @@ You should see something like this printed to the screen:
 
 ... and you should receive a text message! If it didn't work, check out if something was printed after `ERR:` in the line above, and maybe wait a few more seconds for the message to appear.
 
-## References
+### References
 * Go to the [tutorial](https://learn.vonage.com/blog/2017/05/03/send-sms-messages-with-java-dr/)
 * [Vonage SMS API Reference](https://developer.vonage.com/api/sms?theme=dark)
 * [Vonage Java SDK](https://github.com/Vonage/vonage-java-sdk)
